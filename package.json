@@ -1,0 +1,16 @@
+{
+  "name": "react-app-rewire-postcss-inline-comment",
+  "version": "1.0.0",
+  "description": "A config supports inline comment for postCSS ",
+  "main": "index.js",
+  "dependencies": {
+    "postcss-scss": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SylvanasGone/react-app-rewire-postcss-inline-comment.git"
+  },
+  "author": "SylvanasGone",
+  "license": "MIT",
+  "homepage": "https://github.com/SylvanasGone/react-app-rewire-postcss-inline-comment#readme"
+}
