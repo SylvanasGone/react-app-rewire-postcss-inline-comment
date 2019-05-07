@@ -25,6 +25,14 @@ module.exports = override(
   rewireInlineComment()
 )
 ```
+### e.g.
+
+```scss
+body {
+  // this comment will remain
+  color: blue;
+}
+```
 
 ## License
 MIT
